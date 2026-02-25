@@ -14,7 +14,7 @@
 
 ---
 
-## Contato
+## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/SEU-LINKEDIN)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://SEU-PORTFOLIO.com)
