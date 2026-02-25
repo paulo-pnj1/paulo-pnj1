@@ -24,5 +24,5 @@
 ---
 
 <div align="center">
-  <sub>© 2025 Paulo Nascimento · Todos os direitos reservados</sub>
+  <sub>© 2025 Paulo Nkee João · Todos os direitos reservados</sub>
 </div>
