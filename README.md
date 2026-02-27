@@ -76,7 +76,7 @@ Cada projeto é tratado como produto real — não apenas exercício técnico.
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://SEU-PORTFOLIO.com">
+<a href="https://pnjdev.vercel.app">
   <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge"/>
 </a>
 
