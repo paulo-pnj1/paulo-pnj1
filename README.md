@@ -1,70 +1,97 @@
 <div align="center">
   <h1>Paulo Nkeé João</h1>
-<p><strong>Full-Stack Engineer | SaaS Builder | Sistemas Escaláveis orientados a negócio</strong></p>
-  
+  <p><strong>Software Engineer | AI & LLM Practical Evaluation</strong></p>
+
   <p>
-    Construindo sistemas modernos, performáticos e escaláveis com foco em produto e impacto real.
+    Engenheiro informático focado em desenvolvimento de software e exploração prática de sistemas de inteligência artificial, com interesse em avaliação de qualidade de respostas de modelos de linguagem (LLMs).
   </p>
 </div>
 
 ---
 
-### Foco Profissional
+## 🧠 AI & LLM Practical Focus
 
-Engenheiro informático especializado em desenvolvimento de aplicações web e mobile com arquitetura sustentável e orientada a negócio.
+Interesse e experiência prática em análise de outputs de modelos de linguagem (LLMs), com foco em qualidade, coerência e utilidade das respostas.
 
-Atuação focada em:
+Atividades e foco:
 
-- Desenvolvimento de produtos SaaS  
-- Arquitetura limpa e escalável  
-- Automação de processos  
-- Performance e otimização  
-- Integração de IA aplicada a negócios  
+- Avaliação de respostas geradas por modelos de IA
+- Identificação de inconsistências e erros factuais
+- Análise de relevância e coerência contextual das respostas
+- Comparação entre diferentes respostas de sistemas de IA
+- Exploração de comportamento de LLMs em diferentes cenários
+- Uso de ferramentas de IA para apoio a desenvolvimento e análise
 
 ---
 
-### Stack Tecnológica
+## ⚙️ Software Engineering Experience
+
+Experiência em desenvolvimento de sistemas web e aplicações escaláveis, com foco em boas práticas de engenharia de software.
+
+Áreas de atuação:
+
+- Desenvolvimento de aplicações web e APIs
+- Construção de sistemas backend e frontend
+- Integração de serviços e automação de processos
+- Estruturação de software orientado a manutenção e escalabilidade
+- Uso de tecnologias modernas para desenvolvimento full-stack
+
+---
+
+## 🔬 Practical Approach to Systems
+
+Abordagem prática baseada em construção e observação de sistemas reais, com foco em:
+
+- Comportamento de aplicações em cenários reais
+- Qualidade e consistência de outputs de sistemas
+- Organização lógica de soluções técnicas
+- Identificação de falhas e melhorias em sistemas
+- Aplicação de pensamento crítico em software e IA
+
+---
+
+## ⚙️ Tech Stack
 
 <div align="center">
 
 | Categoria | Tecnologias |
 |------------|-------------|
-| **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> |
-| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> |
-| **Linguagens** | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> |
-| **Banco de Dados** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/> |
-| **ORM / Query** | <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge"/> |
-| **DevOps & Tools** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> |
-| **Data & Prototipagem** | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> |
+| Frontend | React, Next.js, React Native |
+| Backend | Node.js, Python |
+| Linguagens | JavaScript, TypeScript |
+| Bases de Dados | PostgreSQL, MySQL, Supabase |
+| ORM | Prisma, Drizzle |
+| DevOps | Docker, Git |
+| IA & Dados | Python, Streamlit |
 
 </div>
 
 ---
 
-### GitHub Analytics
+## 📊 GitHub Overview
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulonkee&show_icons=true&theme=github_dark&count_private=true&hide_border=true&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulonkee&show_icons=true&theme=github_dark&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulonkee&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
 ---
 
-### Projetos
+## 🧩 Project Philosophy
 
-Os repositórios fixados demonstram:
+Os projetos refletem uma abordagem prática de engenharia de software, focada em construção de sistemas funcionais e análise de comportamento de aplicações.
 
-- Arquitetura profissional
-- Estrutura escalável
-- Aplicação prática em negócios
-- Potencial de monetização
-- Código organizado e documentado
+Cada projeto demonstra:
 
-Cada projeto é tratado como produto real — não apenas exercício técnico.
+- Capacidade de resolver problemas reais com código
+- Estruturação clara de sistemas e lógica de negócio
+- Foco em qualidade, performance e manutenção
+- Exploração de integração com ferramentas e APIs
+- Interesse em comportamento de sistemas inteligentes
 
 ---
 
-### Contato
+## 📬 Contact
 
 <div align="center">
 
@@ -77,7 +104,7 @@ Cada projeto é tratado como produto real — não apenas exercício técnico.
 </a>
 
 <a href="https://pnjdev.vercel.app">
-  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
 
 </div>
@@ -85,5 +112,5 @@ Cada projeto é tratado como produto real — não apenas exercício técnico.
 ---
 
 <div align="center">
-  <sub>© 2026 Paulo Nkeé João · Engenharia orientada a impacto, escalabilidade e visão de longo prazo</sub>
+  <sub>© 2026 Paulo Nkeé João · Software Engineering & Applied AI Exploration</sub>
 </div>
