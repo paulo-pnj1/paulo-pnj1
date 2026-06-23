@@ -1,116 +1,116 @@
-<div align="center">
-  <h1>Paulo Nkeé João</h1>
-  <p><strong>Software Engineer | AI & LLM Practical Evaluation</strong></p>
+# Paulo Nkeé João
 
-  <p>
-    Engenheiro informático focado em desenvolvimento de software e exploração prática de sistemas de inteligência artificial, com interesse em avaliação de qualidade de respostas de modelos de linguagem (LLMs).
-  </p>
-</div>
+### Engenheiro de Software | IA Aplicada | Sistemas Inteligentes
 
----
+Construo sistemas de software e inteligência artificial com foco em impacto real, escalabilidade e tomada de decisão baseada em dados.
 
-## 🧠 AI & LLM Practical Focus
-
-Interesse e experiência prática em análise de outputs de modelos de linguagem (LLMs), com foco em qualidade, coerência e utilidade das respostas.
-
-Atividades e foco:
-
-- Avaliação de respostas geradas por modelos de IA
-- Identificação de inconsistências e erros factuais
-- Análise de relevância e coerência contextual das respostas
-- Comparação entre diferentes respostas de sistemas de IA
-- Exploração de comportamento de LLMs em diferentes cenários
-- Uso de ferramentas de IA para apoio a desenvolvimento e análise
+A minha trajetória em engenharia evoluiu de fundamentos de machine learning até à construção e avaliação de sistemas de IA aplicados a problemas reais em diferentes domínios.
 
 ---
 
-## ⚙️ Software Engineering Experience
+## Filosofia de Engenharia
 
-Experiência em desenvolvimento de sistemas web e aplicações escaláveis, com foco em boas práticas de engenharia de software.
+Não construo apenas aplicações.
+Construo sistemas que:
 
-Áreas de atuação:
+- aprendem com dados
+- tomam decisões assistidas por IA
+- geram valor real para utilizadores
+- expõem falhas de modelos quando existem
 
-- Desenvolvimento de aplicações web e APIs
-- Construção de sistemas backend e frontend
-- Integração de serviços e automação de processos
-- Estruturação de software orientado a manutenção e escalabilidade
-- Uso de tecnologias modernas para desenvolvimento full-stack
-
----
-
-## 🔬 Practical Approach to Systems
-
-Abordagem prática baseada em construção e observação de sistemas reais, com foco em:
-
-- Comportamento de aplicações em cenários reais
-- Qualidade e consistência de outputs de sistemas
-- Organização lógica de soluções técnicas
-- Identificação de falhas e melhorias em sistemas
-- Aplicação de pensamento crítico em software e IA
+A engenharia, para mim, não é só desenvolvimento, é compreensão de comportamento de sistemas complexos.
 
 ---
 
-## ⚙️ Tech Stack
+## Evolução Técnica
 
-<div align="center">
+### 1. Machine Learning & Fundamentos
 
-| Categoria | Tecnologias |
-|------------|-------------|
-| Frontend | React, Next.js, React Native |
-| Backend | Node.js, Python |
-| Linguagens | JavaScript, TypeScript |
-| Bases de Dados | PostgreSQL, MySQL, Supabase |
-| ORM | Prisma, Drizzle |
-| DevOps | Docker, Git |
-| IA & Dados | Python, Streamlit |
+**DataForge EDU**
+Plataforma de aprendizagem de machine learning com algoritmos supervisionados, métricas, validação e experimentação estruturada.
 
-</div>
+**Foco:**
+- compreensão de algoritmos clássicos
+- avaliação de modelos
+- pipelines de treino e validação
 
 ---
 
-## 📊 GitHub Overview
+### 2. Data-driven Decision Systems
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulonkee&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulonkee&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
+**StatFutebool**
+Sistema de análise estatística aplicado a futebol com base em dados reais e APIs externas.
 
----
-
-## 🧩 Project Philosophy
-
-Os projetos refletem uma abordagem prática de engenharia de software, focada em construção de sistemas funcionais e análise de comportamento de aplicações.
-
-Cada projeto demonstra:
-
-- Capacidade de resolver problemas reais com código
-- Estruturação clara de sistemas e lógica de negócio
-- Foco em qualidade, performance e manutenção
-- Exploração de integração com ferramentas e APIs
-- Interesse em comportamento de sistemas inteligentes
+**Foco:**
+- análise de dados em tempo real
+- modelação estatística
+- geração de previsões baseadas em probabilidades
 
 ---
 
-## 📬 Contact
+### 3. Software como Produto (SaaS)
 
-<div align="center">
+**MuanaVenda**
+Plataforma SaaS multi-tenant para gestão de vendas via WhatsApp com IA integrada.
 
-<a href="https://linkedin.com/in/paulo-nke">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:paulocapelajoao@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://pnjdev.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
-</a>
-
-</div>
+**Foco:**
+- arquitetura escalável (DDD + modular monolith)
+- sistemas multi-tenant
+- integração de IA em produtos reais
+- automação de processos de negócio
 
 ---
 
-<div align="center">
-  <sub>© 2026 Paulo Nkeé João · Software Engineering & Applied AI Exploration</sub>
-</div>
+### 4. IA Aplicada a Contextos Críticos
+
+**HGU AI Clínico**
+Sistema de apoio clínico baseado em IA para triagem e suporte a decisões médicas.
+
+**Foco:**
+- integração de LLMs em contexto especializado
+- análise de imagens clínicas
+- classificação de risco (triagem)
+- geração de relatórios estruturados
+
+---
+
+### 5. Avaliação de Modelos de IA *(em evolução)*
+
+**EvalMind AI** *(em desenvolvimento conceitual)*
+Sistema de avaliação de respostas de modelos de linguagem (LLMs).
+
+**Foco:**
+- deteção de alucinações
+- avaliação de coerência e grounding
+- comparação de respostas (A/B testing)
+- scoring estruturado de qualidade de IA
+
+---
+
+## Interesses Técnicos Atuais
+
+- Avaliação de LLMs e comportamento de modelos
+- Engenharia de prompts e sistemas contextuais
+- Arquiteturas SaaS escaláveis
+- Sistemas de decisão baseados em IA
+- Qualidade e segurança em outputs de modelos
+
+---
+
+## Objetivo Profissional
+
+Evoluir para funções em:
+
+- AI Systems Engineer
+- LLM Evaluation Specialist
+- AI Product Engineer
+- Machine Learning Engineer (Applied Systems)
+- AI Quality & Safety Analyst
+
+---
+
+## Nota
+
+Cada projeto neste perfil representa uma etapa real da minha evolução como engenheiro, desde fundamentos de machine learning até sistemas de IA aplicados e avaliação de modelos.
+
+O objetivo não é apenas construir software, mas compreender, medir e melhorar sistemas inteligentes.
