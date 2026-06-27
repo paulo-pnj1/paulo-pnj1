@@ -1,116 +1,89 @@
-# Paulo Nkeé João
-
-### Engenheiro de Software | IA Aplicada | Sistemas Inteligentes
-
-Construo sistemas de software e inteligência artificial com foco em impacto real, escalabilidade e tomada de decisão baseada em dados.
-
-A minha trajetória em engenharia evoluiu de fundamentos de machine learning até à construção e avaliação de sistemas de IA aplicados a problemas reais em diferentes domínios.
-
----
-
-## Filosofia de Engenharia
-
-Não construo apenas aplicações.
-Construo sistemas que:
-
-- aprendem com dados
-- tomam decisões assistidas por IA
-- geram valor real para utilizadores
-- expõem falhas de modelos quando existem
-
-A engenharia, para mim, não é só desenvolvimento, é compreensão de comportamento de sistemas complexos.
+<div align="center">
+  <h1>Paulo Nkeé João</h1>
+<p><strong>Full-Stack Engineer | SaaS Builder | Sistemas Escaláveis orientados a negócio</strong></p>
+  
+  <p>
+    Construindo sistemas modernos, performáticos e escaláveis com foco em produto e impacto real.
+  </p>
+</div>
 
 ---
 
-## Evolução Técnica
+### Foco Profissional
 
-### 1. Machine Learning & Fundamentos
+Engenheiro informático especializado em desenvolvimento de aplicações web e mobile com arquitetura sustentável e orientada a negócio.
 
-**DataForge EDU**
-Plataforma de aprendizagem de machine learning com algoritmos supervisionados, métricas, validação e experimentação estruturada.
+Atuação focada em:
 
-**Foco:**
-- compreensão de algoritmos clássicos
-- avaliação de modelos
-- pipelines de treino e validação
-
----
-
-### 2. Data-driven Decision Systems
-
-**StatFutebool**
-Sistema de análise estatística aplicado a futebol com base em dados reais e APIs externas.
-
-**Foco:**
-- análise de dados em tempo real
-- modelação estatística
-- geração de previsões baseadas em probabilidades
+- Desenvolvimento de produtos SaaS  
+- Arquitetura limpa e escalável  
+- Automação de processos  
+- Performance e otimização  
+- Integração de IA aplicada a negócios  
 
 ---
 
-### 3. Software como Produto (SaaS)
+### Stack Tecnológica
 
-**MuanaVenda**
-Plataforma SaaS multi-tenant para gestão de vendas via WhatsApp com IA integrada.
+<div align="center">
 
-**Foco:**
-- arquitetura escalável (DDD + modular monolith)
-- sistemas multi-tenant
-- integração de IA em produtos reais
-- automação de processos de negócio
+| Categoria | Tecnologias |
+|------------|-------------|
+| **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> |
+| **Linguagens** | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> |
+| **Banco de Dados** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/> |
+| **ORM / Query** | <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge"/> |
+| **DevOps & Tools** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> |
+| **Data & Prototipagem** | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> |
 
----
-
-### 4. IA Aplicada a Contextos Críticos
-
-**HGU AI Clínico**
-Sistema de apoio clínico baseado em IA para triagem e suporte a decisões médicas.
-
-**Foco:**
-- integração de LLMs em contexto especializado
-- análise de imagens clínicas
-- classificação de risco (triagem)
-- geração de relatórios estruturados
+</div>
 
 ---
 
-### 5. Avaliação de Modelos de IA *(em evolução)*
+### GitHub Analytics
 
-**EvalMind AI** *(em desenvolvimento conceitual)*
-Sistema de avaliação de respostas de modelos de linguagem (LLMs).
-
-**Foco:**
-- deteção de alucinações
-- avaliação de coerência e grounding
-- comparação de respostas (A/B testing)
-- scoring estruturado de qualidade de IA
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulonkee&show_icons=true&theme=github_dark&count_private=true&hide_border=true&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulonkee&layout=compact&theme=github_dark&hide_border=true"/>
+</div>
 
 ---
 
-## Interesses Técnicos Atuais
+### Projetos
 
-- Avaliação de LLMs e comportamento de modelos
-- Engenharia de prompts e sistemas contextuais
-- Arquiteturas SaaS escaláveis
-- Sistemas de decisão baseados em IA
-- Qualidade e segurança em outputs de modelos
+Os repositórios fixados demonstram:
 
----
+- Arquitetura profissional
+- Estrutura escalável
+- Aplicação prática em negócios
+- Potencial de monetização
+- Código organizado e documentado
 
-## Objetivo Profissional
-
-Evoluir para funções em:
-
-- AI Systems Engineer
-- LLM Evaluation Specialist
-- AI Product Engineer
-- Machine Learning Engineer (Applied Systems)
-- AI Quality & Safety Analyst
+Cada projeto é tratado como produto real — não apenas exercício técnico.
 
 ---
 
-## Nota
+### Contato
 
-Cada projeto neste perfil representa uma etapa real da minha evolução como engenheiro, desde fundamentos de machine learning até sistemas de IA aplicados e avaliação de modelos.
+<div align="center">
 
-O objetivo não é apenas construir software, mas compreender, medir e melhorar sistemas inteligentes.
+<a href="https://linkedin.com/in/paulo-nke">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:paulocapelajoao@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://pnjdev.vercel.app">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <sub>© 2026 Paulo Nkeé João · Engenharia orientada a impacto, escalabilidade e visão de longo prazo</sub>
+</div>
